@@ -1,0 +1,12 @@
+{'d_model': 32, 'nhead': 2, 'num_layers': 1} -> 0.0027
+{'d_model': 32, 'nhead': 2, 'num_layers': 2} -> 0.0052
+{'d_model': 32, 'nhead': 4, 'num_layers': 1} -> 0.0030
+{'d_model': 32, 'nhead': 4, 'num_layers': 2} -> 0.0051
+{'d_model': 64, 'nhead': 2, 'num_layers': 1} -> 0.0028
+{'d_model': 64, 'nhead': 2, 'num_layers': 2} -> 0.0033
+{'d_model': 64, 'nhead': 4, 'num_layers': 1} -> 0.0022
+{'d_model': 64, 'nhead': 4, 'num_layers': 2} -> 0.0062
+{'d_model': 128, 'nhead': 2, 'num_layers': 1} -> 0.0018
+{'d_model': 128, 'nhead': 2, 'num_layers': 2} -> 0.0043
+{'d_model': 128, 'nhead': 4, 'num_layers': 1} -> 0.0018
+{'d_model': 128, 'nhead': 4, 'num_layers': 2} -> 0.0027
